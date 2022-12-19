@@ -8,6 +8,9 @@
 - ⚡ Fun fact: I'm Prolly  Sleep deprived at the time that you're reading this...
 
 **Some bold Text, still for know reason**
+### ![twitter-followers-badge](https://img.shields.io/twitter/follow/rajxryan?style=social)
+
+
 <!--
 **8rxn/8rxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Default Settings ...
 - ⚡ Fun fact: I'm Prolly  Sleep deprived at the time that you're reading this...
 -->
+
