@@ -8,6 +8,8 @@
 #  About Me 🤺 :
 👨‍💻 All of my projects are available at https://rajxryan.vercel.app<br><br>📫 How to reach me rajxryn@gmail.com<br>
 
+# Github Stats
+[![8rxn's GitHub | Stats](https://stats.quine.sh/8rxn/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=8rxn)
 
 ## You can connect with me at:
 
